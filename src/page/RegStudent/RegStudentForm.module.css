@@ -1,0 +1,52 @@
+.root {
+    width: 90%;
+    margin: 0 auto;
+    background-color: white;
+    position: relative;
+}
+
+.root .subtitle{
+    position: relative;
+    align-items: center;
+    font-size: 2rem;
+    margin: 20px;
+}
+
+.root .box{
+    position: relative;
+    align-items: center;
+    background-color: bisque;
+}
+
+.root .box .input{
+    width: 400px;
+    height: 30px;
+    border: 2px solid #ffd500;
+    text-align: center;
+    color: black;
+    line-height: 60px;
+    position: relative;
+    margin: 16px;
+}
+
+.root .box .label{
+    width: 80px;
+    background: rgb(206, 170, 157);
+    display: inline-block;
+    text-align: center;
+}
+
+.root .buttom{
+    text-align: center;
+    position: relative;
+    background: rgb(182, 56, 10);
+    border: none;
+    color: white;
+    padding: 12px 24px;
+    font-size: 1rem;
+    outline: none;
+    box-shadow: -6px 6px 3px #ba390a60;
+    border-radius: 5px;
+    margin: 16px;
+}
+

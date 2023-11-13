@@ -1,0 +1,19 @@
+.appContainer {
+  display: flex;
+}
+
+.appContainer .tableContainer {
+  flex: 1;
+  padding: 40px;
+  width: 50%;
+  height: 100px;
+  background-color: #f2f2f2;
+}
+
+.appContainer .listContainer {
+  flex: 1;
+  padding: 40px;
+  width: 100px;
+  height: 100px;
+  background-color: #eaeaea;
+}

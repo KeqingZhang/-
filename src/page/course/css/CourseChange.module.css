@@ -1,0 +1,61 @@
+.root {
+    max-height: 750px;
+    width: 20%;
+    overflow-y: auto;
+    border: 1px solid #ccc;
+  }
+
+.root .table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+.root .element {
+    height: 14%;
+    width: 100%;
+    overflow-y: auto;
+    border: 1px solid #c19c4e;
+}
+.root .element .title{
+    align-items: center;
+    font-size: 14px;
+    margin: 5%;
+}
+
+.root .element .time{
+  align-items: center;
+  font-size: 10px;
+  margin: 3%;
+}
+
+.root .element .button{
+  width: 100%;
+}
+
+.root .table  .head{
+  /* position: absolute; */
+  width: 20%;
+  /* right: 0; */
+  margin-right: 7px;
+  color: aliceblue;
+}
+
+.root .table  .head .th  {
+    border: 1px solid #ccc;
+    padding: 8px;
+    background-color: #333;
+    width: 20%;
+    margin-right: 20px;
+  }
+
+.root .table  .body{
+    position: absolute;
+    right: 0;
+    margin-right: 7px;
+  }
+
+.root .table  .body .td{
+    border: 1px solid #ccc;
+    padding: 8px;
+}
+  

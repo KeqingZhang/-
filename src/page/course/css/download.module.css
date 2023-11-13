@@ -1,0 +1,9 @@
+.button {
+    /* position: relative; */
+    top: 20px;
+    left: 25px;
+    max-height: 750px;
+    width: 20%;
+    overflow-y: auto;
+    border: 1px solid #ccc;
+  }

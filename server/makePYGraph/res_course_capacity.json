@@ -1,0 +1,230 @@
+[
+  {
+    "name": "C1:高级语言程序设计",
+    "resNumber": 60,
+    "totalCap": 80,
+    "term": 1
+  },
+  {
+    "name": "C2:电路分析基础",
+    "resNumber": 60,
+    "totalCap": 60,
+    "term": 2
+  },
+  {
+    "name": "C3:模拟电子技术",
+    "resNumber": 60,
+    "totalCap": 60,
+    "term": 3
+  },
+  {
+    "name": "C4:数字逻辑",
+    "resNumber": 60,
+    "totalCap": 80,
+    "term": 3
+  },
+  {
+    "name": "C5:集合与图论",
+    "resNumber": 60,
+    "totalCap": 60,
+    "term": 3
+  },
+  {
+    "name": "C6:数字逻辑实验",
+    "resNumber": 0,
+    "totalCap": 40,
+    "term": 3
+  },
+  {
+    "name": "C7:C++语言程序设计",
+    "resNumber": 60,
+    "totalCap": 80,
+    "term": 3
+  },
+  {
+    "name": "C8:数据结构与算法",
+    "resNumber": 60,
+    "totalCap": 80,
+    "term": 4
+  },
+  {
+    "name": "C9:计算机组成原理",
+    "resNumber": 60,
+    "totalCap": 80,
+    "term": 4
+  },
+  {
+    "name": "C10:代数与逻辑",
+    "resNumber": 60,
+    "totalCap": 60,
+    "term": 4
+  },
+  {
+    "name": "C11:计算机组成原理课设",
+    "resNumber": 0,
+    "totalCap": 80,
+    "term": 4
+  },
+  {
+    "name": "C12:汇编语言程序设计",
+    "resNumber": 60,
+    "totalCap": 60,
+    "term": 4
+  },
+  {
+    "name": "C13: 数字系统设计",
+    "resNumber": 60,
+    "totalCap": 60,
+    "term": 4
+  },
+  {
+    "name": "C14: 计算机图形学",
+    "resNumber": 60,
+    "totalCap": 120,
+    "term": 4
+  },
+  {
+    "name": "C15:操作系统原理",
+    "resNumber": 0,
+    "totalCap": 80,
+    "term": 5
+  },
+  {
+    "name": "C16:数据库原理",
+    "resNumber": 60,
+    "totalCap": 80,
+    "term": 5
+  },
+  {
+    "name": "C17:计算机网络",
+    "resNumber": 0,
+    "totalCap": 80,
+    "term": 5
+  },
+  {
+    "name": "C18:计算机系统结构",
+    "resNumber": 60,
+    "totalCap": 60,
+    "term": 5
+  },
+  {
+    "name": "C19:人工智能导论",
+    "resNumber": 60,
+    "totalCap": 60,
+    "term": 5
+  },
+  {
+    "name": "C20:数据结构课设",
+    "resNumber": 60,
+    "totalCap": 80,
+    "term": 5
+  },
+  {
+    "name": "C21:微型计算机接口技术",
+    "resNumber": 0,
+    "totalCap": 60,
+    "term": 5
+  },
+  {
+    "name": "C22:算法设计与分析",
+    "resNumber": 60,
+    "totalCap": 60,
+    "term": 5
+  },
+  {
+    "name": "C23:人机交互引论",
+    "resNumber": 60,
+    "totalCap": 60,
+    "term": 5
+  },
+  {
+    "name": "C24:数字图像处理",
+    "resNumber": 60,
+    "totalCap": 60,
+    "term": 5
+  },
+  {
+    "name": "C25:编译原理",
+    "resNumber": 60,
+    "totalCap": 80,
+    "term": 6
+  },
+  {
+    "name": "C26:软件工程引论",
+    "resNumber": 60,
+    "totalCap": 60,
+    "term": 6
+  },
+  {
+    "name": "C27:Linux操作系统",
+    "resNumber": 60,
+    "totalCap": 60,
+    "term": 6
+  },
+  {
+    "name": "C28:数据挖掘",
+    "resNumber": 60,
+    "totalCap": 60,
+    "term": 6
+  },
+  {
+    "name": "C29:IPv6技术及应用",
+    "resNumber": 60,
+    "totalCap": 60,
+    "term": 6
+  },
+  {
+    "name": "C30:Python与数据分析",
+    "resNumber": 60,
+    "totalCap": 60,
+    "term": 6
+  },
+  {
+    "name": "C31:大学英语1",
+    "resNumber": 60,
+    "totalCap": 80,
+    "term": 1
+  },
+  {
+    "name": "C32:线性代数",
+    "resNumber": 60,
+    "totalCap": 80,
+    "term": 1
+  },
+  {
+    "name": "C33:高等数学1",
+    "resNumber": 60,
+    "totalCap": 80,
+    "term": 1
+  },
+  {
+    "name": "C34:大学物理1",
+    "resNumber": 60,
+    "totalCap": 80,
+    "term": 2
+  },
+  {
+    "name": "C35:大学英语2",
+    "resNumber": 60,
+    "totalCap": 80,
+    "term": 2
+  },
+  {
+    "name": "C36:高等数学2",
+    "resNumber": 60,
+    "totalCap": 80,
+    "term": 2
+  },
+  {
+    "name": "C37:大学物理2",
+    "resNumber": 60,
+    "totalCap": 80,
+    "term": 3
+  },
+  {
+    "name": "C38:概率论",
+    "resNumber": 60,
+    "totalCap": 80,
+    "term": 3
+  }
+]

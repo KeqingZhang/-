@@ -1,0 +1,728 @@
+[
+  {
+    "source": "C32:线性代数",
+    "target": "C2:电路分析基础",
+    "label": {
+      "show": "false"
+    },
+    "lineStyle": {
+      "curveness": 0.2,
+      "color": "#333"
+    }
+  },
+  {
+    "source": "C33:高等数学1",
+    "target": "C2:电路分析基础",
+    "label": {
+      "show": "false"
+    },
+    "lineStyle": {
+      "curveness": 0.2,
+      "color": "#333"
+    }
+  },
+  {
+    "source": "C2:电路分析基础",
+    "target": "C3:模拟电子技术",
+    "label": {
+      "show": "false"
+    },
+    "lineStyle": {
+      "curveness": 0.2,
+      "color": "#333"
+    }
+  },
+  {
+    "source": "C3:模拟电子技术",
+    "target": "C4:数字逻辑",
+    "label": {
+      "show": "false"
+    },
+    "lineStyle": {
+      "curveness": 0.2,
+      "color": "#333"
+    }
+  },
+  {
+    "source": "C32:线性代数",
+    "target": "C5:集合与图论",
+    "label": {
+      "show": "false"
+    },
+    "lineStyle": {
+      "curveness": 0.2,
+      "color": "#333"
+    }
+  },
+  {
+    "source": "C33:高等数学1",
+    "target": "C5:集合与图论",
+    "label": {
+      "show": "false"
+    },
+    "lineStyle": {
+      "curveness": 0.2,
+      "color": "#333"
+    }
+  },
+  {
+    "source": "C36:高等数学2",
+    "target": "C5:集合与图论",
+    "label": {
+      "show": "false"
+    },
+    "lineStyle": {
+      "curveness": 0.2,
+      "color": "#333"
+    }
+  },
+  {
+    "source": "C4:数字逻辑",
+    "target": "C6:数字逻辑实验",
+    "label": {
+      "show": "false"
+    },
+    "lineStyle": {
+      "curveness": 0.2,
+      "color": "#333"
+    }
+  },
+  {
+    "source": "C1:高级语言程序设计",
+    "target": "C7:C++语言程序设计",
+    "label": {
+      "show": "false"
+    },
+    "lineStyle": {
+      "curveness": 0.2,
+      "color": "#333"
+    }
+  },
+  {
+    "source": "C1:高级语言程序设计",
+    "target": "C8:数据结构与算法",
+    "label": {
+      "show": "false"
+    },
+    "lineStyle": {
+      "curveness": 0.2,
+      "color": "#333"
+    }
+  },
+  {
+    "source": "C5:集合与图论",
+    "target": "C8:数据结构与算法",
+    "label": {
+      "show": "false"
+    },
+    "lineStyle": {
+      "curveness": 0.2,
+      "color": "#333"
+    }
+  },
+  {
+    "source": "C4:数字逻辑",
+    "target": "C9:计算机组成原理",
+    "label": {
+      "show": "false"
+    },
+    "lineStyle": {
+      "curveness": 0.2,
+      "color": "#333"
+    }
+  },
+  {
+    "source": "C5:集合与图论",
+    "target": "C10:代数与逻辑",
+    "label": {
+      "show": "false"
+    },
+    "lineStyle": {
+      "curveness": 0.2,
+      "color": "#333"
+    }
+  },
+  {
+    "source": "C34:大学物理1",
+    "target": "C10:代数与逻辑",
+    "label": {
+      "show": "false"
+    },
+    "lineStyle": {
+      "curveness": 0.2,
+      "color": "#333"
+    }
+  },
+  {
+    "source": "C37:大学物理2",
+    "target": "C10:代数与逻辑",
+    "label": {
+      "show": "false"
+    },
+    "lineStyle": {
+      "curveness": 0.2,
+      "color": "#333"
+    }
+  },
+  {
+    "source": "C9:计算机组成原理",
+    "target": "C11:计算机组成原理课设",
+    "label": {
+      "show": "false"
+    },
+    "lineStyle": {
+      "curveness": 0.2,
+      "color": "#333"
+    }
+  },
+  {
+    "source": "C9:计算机组成原理",
+    "target": "C12:汇编语言程序设计",
+    "label": {
+      "show": "false"
+    },
+    "lineStyle": {
+      "curveness": 0.2,
+      "color": "#333"
+    }
+  },
+  {
+    "source": "C2:电路分析基础",
+    "target": "C13: 数字系统设计",
+    "label": {
+      "show": "false"
+    },
+    "lineStyle": {
+      "curveness": 0.2,
+      "color": "#333"
+    }
+  },
+  {
+    "source": "C4:数字逻辑",
+    "target": "C13: 数字系统设计",
+    "label": {
+      "show": "false"
+    },
+    "lineStyle": {
+      "curveness": 0.2,
+      "color": "#333"
+    }
+  },
+  {
+    "source": "C1:高级语言程序设计",
+    "target": "C14: 计算机图形学",
+    "label": {
+      "show": "false"
+    },
+    "lineStyle": {
+      "curveness": 0.2,
+      "color": "#333"
+    }
+  },
+  {
+    "source": "C8:数据结构与算法",
+    "target": "C14: 计算机图形学",
+    "label": {
+      "show": "false"
+    },
+    "lineStyle": {
+      "curveness": 0.2,
+      "color": "#333"
+    }
+  },
+  {
+    "source": "C1:高级语言程序设计",
+    "target": "C15:操作系统原理",
+    "label": {
+      "show": "false"
+    },
+    "lineStyle": {
+      "curveness": 0.2,
+      "color": "#333"
+    }
+  },
+  {
+    "source": "C8:数据结构与算法",
+    "target": "C15:操作系统原理",
+    "label": {
+      "show": "false"
+    },
+    "lineStyle": {
+      "curveness": 0.2,
+      "color": "#333"
+    }
+  },
+  {
+    "source": "C9:计算机组成原理",
+    "target": "C15:操作系统原理",
+    "label": {
+      "show": "false"
+    },
+    "lineStyle": {
+      "curveness": 0.2,
+      "color": "#333"
+    }
+  },
+  {
+    "source": "C12:汇编语言程序设计",
+    "target": "C15:操作系统原理",
+    "label": {
+      "show": "false"
+    },
+    "lineStyle": {
+      "curveness": 0.2,
+      "color": "#333"
+    }
+  },
+  {
+    "source": "C5:集合与图论",
+    "target": "C16:数据库原理",
+    "label": {
+      "show": "false"
+    },
+    "lineStyle": {
+      "curveness": 0.2,
+      "color": "#333"
+    }
+  },
+  {
+    "source": "C8:数据结构与算法",
+    "target": "C16:数据库原理",
+    "label": {
+      "show": "false"
+    },
+    "lineStyle": {
+      "curveness": 0.2,
+      "color": "#333"
+    }
+  },
+  {
+    "source": "C10:代数与逻辑",
+    "target": "C16:数据库原理",
+    "label": {
+      "show": "false"
+    },
+    "lineStyle": {
+      "curveness": 0.2,
+      "color": "#333"
+    }
+  },
+  {
+    "source": "C1:高级语言程序设计",
+    "target": "C17:计算机网络",
+    "label": {
+      "show": "false"
+    },
+    "lineStyle": {
+      "curveness": 0.2,
+      "color": "#333"
+    }
+  },
+  {
+    "source": "C4:数字逻辑",
+    "target": "C17:计算机网络",
+    "label": {
+      "show": "false"
+    },
+    "lineStyle": {
+      "curveness": 0.2,
+      "color": "#333"
+    }
+  },
+  {
+    "source": "C4:数字逻辑",
+    "target": "C18:计算机系统结构",
+    "label": {
+      "show": "false"
+    },
+    "lineStyle": {
+      "curveness": 0.2,
+      "color": "#333"
+    }
+  },
+  {
+    "source": "C9:计算机组成原理",
+    "target": "C18:计算机系统结构",
+    "label": {
+      "show": "false"
+    },
+    "lineStyle": {
+      "curveness": 0.2,
+      "color": "#333"
+    }
+  },
+  {
+    "source": "C1:高级语言程序设计",
+    "target": "C19:人工智能导论",
+    "label": {
+      "show": "false"
+    },
+    "lineStyle": {
+      "curveness": 0.2,
+      "color": "#333"
+    }
+  },
+  {
+    "source": "C5:集合与图论",
+    "target": "C19:人工智能导论",
+    "label": {
+      "show": "false"
+    },
+    "lineStyle": {
+      "curveness": 0.2,
+      "color": "#333"
+    }
+  },
+  {
+    "source": "C8:数据结构与算法",
+    "target": "C19:人工智能导论",
+    "label": {
+      "show": "false"
+    },
+    "lineStyle": {
+      "curveness": 0.2,
+      "color": "#333"
+    }
+  },
+  {
+    "source": "C10:代数与逻辑",
+    "target": "C19:人工智能导论",
+    "label": {
+      "show": "false"
+    },
+    "lineStyle": {
+      "curveness": 0.2,
+      "color": "#333"
+    }
+  },
+  {
+    "source": "C8:数据结构与算法",
+    "target": "C20:数据结构课设",
+    "label": {
+      "show": "false"
+    },
+    "lineStyle": {
+      "curveness": 0.2,
+      "color": "#333"
+    }
+  },
+  {
+    "source": "C4:数字逻辑",
+    "target": "C21:微型计算机接口技术",
+    "label": {
+      "show": "false"
+    },
+    "lineStyle": {
+      "curveness": 0.2,
+      "color": "#333"
+    }
+  },
+  {
+    "source": "C9:计算机组成原理",
+    "target": "C21:微型计算机接口技术",
+    "label": {
+      "show": "false"
+    },
+    "lineStyle": {
+      "curveness": 0.2,
+      "color": "#333"
+    }
+  },
+  {
+    "source": "C12:汇编语言程序设计",
+    "target": "C21:微型计算机接口技术",
+    "label": {
+      "show": "false"
+    },
+    "lineStyle": {
+      "curveness": 0.2,
+      "color": "#333"
+    }
+  },
+  {
+    "source": "C1:高级语言程序设计",
+    "target": "C22:算法设计与分析",
+    "label": {
+      "show": "false"
+    },
+    "lineStyle": {
+      "curveness": 0.2,
+      "color": "#333"
+    }
+  },
+  {
+    "source": "C5:集合与图论",
+    "target": "C22:算法设计与分析",
+    "label": {
+      "show": "false"
+    },
+    "lineStyle": {
+      "curveness": 0.2,
+      "color": "#333"
+    }
+  },
+  {
+    "source": "C8:数据结构与算法",
+    "target": "C22:算法设计与分析",
+    "label": {
+      "show": "false"
+    },
+    "lineStyle": {
+      "curveness": 0.2,
+      "color": "#333"
+    }
+  },
+  {
+    "source": "C10:代数与逻辑",
+    "target": "C22:算法设计与分析",
+    "label": {
+      "show": "false"
+    },
+    "lineStyle": {
+      "curveness": 0.2,
+      "color": "#333"
+    }
+  },
+  {
+    "source": "C1:高级语言程序设计",
+    "target": "C23:人机交互引论",
+    "label": {
+      "show": "false"
+    },
+    "lineStyle": {
+      "curveness": 0.2,
+      "color": "#333"
+    }
+  },
+  {
+    "source": "C8:数据结构与算法",
+    "target": "C23:人机交互引论",
+    "label": {
+      "show": "false"
+    },
+    "lineStyle": {
+      "curveness": 0.2,
+      "color": "#333"
+    }
+  },
+  {
+    "source": "C1:高级语言程序设计",
+    "target": "C24:数字图像处理",
+    "label": {
+      "show": "false"
+    },
+    "lineStyle": {
+      "curveness": 0.2,
+      "color": "#333"
+    }
+  },
+  {
+    "source": "C8:数据结构与算法",
+    "target": "C24:数字图像处理",
+    "label": {
+      "show": "false"
+    },
+    "lineStyle": {
+      "curveness": 0.2,
+      "color": "#333"
+    }
+  },
+  {
+    "source": "C1:高级语言程序设计",
+    "target": "C25:编译原理",
+    "label": {
+      "show": "false"
+    },
+    "lineStyle": {
+      "curveness": 0.2,
+      "color": "#333"
+    }
+  },
+  {
+    "source": "C8:数据结构与算法",
+    "target": "C25:编译原理",
+    "label": {
+      "show": "false"
+    },
+    "lineStyle": {
+      "curveness": 0.2,
+      "color": "#333"
+    }
+  },
+  {
+    "source": "C1:高级语言程序设计",
+    "target": "C26:软件工程引论",
+    "label": {
+      "show": "false"
+    },
+    "lineStyle": {
+      "curveness": 0.2,
+      "color": "#333"
+    }
+  },
+  {
+    "source": "C8:数据结构与算法",
+    "target": "C26:软件工程引论",
+    "label": {
+      "show": "false"
+    },
+    "lineStyle": {
+      "curveness": 0.2,
+      "color": "#333"
+    }
+  },
+  {
+    "source": "C16:数据库原理",
+    "target": "C26:软件工程引论",
+    "label": {
+      "show": "false"
+    },
+    "lineStyle": {
+      "curveness": 0.2,
+      "color": "#333"
+    }
+  },
+  {
+    "source": "C15:操作系统原理",
+    "target": "C27:Linux操作系统",
+    "label": {
+      "show": "false"
+    },
+    "lineStyle": {
+      "curveness": 0.2,
+      "color": "#333"
+    }
+  },
+  {
+    "source": "C1:高级语言程序设计",
+    "target": "C28:数据挖掘",
+    "label": {
+      "show": "false"
+    },
+    "lineStyle": {
+      "curveness": 0.2,
+      "color": "#333"
+    }
+  },
+  {
+    "source": "C8:数据结构与算法",
+    "target": "C28:数据挖掘",
+    "label": {
+      "show": "false"
+    },
+    "lineStyle": {
+      "curveness": 0.2,
+      "color": "#333"
+    }
+  },
+  {
+    "source": "C16:数据库原理",
+    "target": "C28:数据挖掘",
+    "label": {
+      "show": "false"
+    },
+    "lineStyle": {
+      "curveness": 0.2,
+      "color": "#333"
+    }
+  },
+  {
+    "source": "C17:计算机网络",
+    "target": "C29:IPv6技术及应用",
+    "label": {
+      "show": "false"
+    },
+    "lineStyle": {
+      "curveness": 0.2,
+      "color": "#333"
+    }
+  },
+  {
+    "source": "C1:高级语言程序设计",
+    "target": "C30:Python与数据分析",
+    "label": {
+      "show": "false"
+    },
+    "lineStyle": {
+      "curveness": 0.2,
+      "color": "#333"
+    }
+  },
+  {
+    "source": "C8:数据结构与算法",
+    "target": "C30:Python与数据分析",
+    "label": {
+      "show": "false"
+    },
+    "lineStyle": {
+      "curveness": 0.2,
+      "color": "#333"
+    }
+  },
+  {
+    "source": "C31:大学英语1",
+    "target": "C35:大学英语2",
+    "label": {
+      "show": "false"
+    },
+    "lineStyle": {
+      "curveness": 0.2,
+      "color": "#333"
+    }
+  },
+  {
+    "source": "C33:高等数学1",
+    "target": "C36:高等数学2",
+    "label": {
+      "show": "false"
+    },
+    "lineStyle": {
+      "curveness": 0.2,
+      "color": "#333"
+    }
+  },
+  {
+    "source": "C34:大学物理1",
+    "target": "C37:大学物理2",
+    "label": {
+      "show": "false"
+    },
+    "lineStyle": {
+      "curveness": 0.2,
+      "color": "#333"
+    }
+  },
+  {
+    "source": "C32:线性代数",
+    "target": "C38:概率论",
+    "label": {
+      "show": "false"
+    },
+    "lineStyle": {
+      "curveness": 0.2,
+      "color": "#333"
+    }
+  },
+  {
+    "source": "C33:高等数学1",
+    "target": "C38:概率论",
+    "label": {
+      "show": "false"
+    },
+    "lineStyle": {
+      "curveness": 0.2,
+      "color": "#333"
+    }
+  },
+  {
+    "source": "C36:高等数学2",
+    "target": "C38:概率论",
+    "label": {
+      "show": "false"
+    },
+    "lineStyle": {
+      "curveness": 0.2,
+      "color": "#333"
+    }
+  }
+]

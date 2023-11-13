@@ -1,0 +1,37 @@
+.root {
+    width: 90%;
+    max-height: 90%;
+    margin: 0 auto;
+    background-color: white;
+    position: relative;
+    /* background-image: url('./img/zyh.png'); */
+    /* position: fixed; */
+    /* top: 10%; */
+    left: 0;
+    width: 100%;
+    height: calc(100vh - 40px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    opacity: 0.8;
+    background-size: cover;
+    background-position: top center;
+}
+
+.root .title{
+    opacity: 1;
+    font-size: 36px;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 10px;
+    background: linear-gradient(to right, #f00, #00f, #0f0);
+    background-size: 200%;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: gradient 10s linear infinite;
+}
+.root .context{
+    opacity: 1;
+    font-size: 16px;
+}
